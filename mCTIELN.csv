@@ -1,60 +1,56 @@
 CODIGO;COMP_CURRICULAR;PERIODO;CREDITOS
+10074.4.54;Artes;1;54
 10032.4.54;Biologia I;1;54
-10038.0.54C;História I;1;54
-10041.4.54;Química I;1;54
-10043.4.54;Geografia I;1;54
-10074.4.54;Artes;1;54
-10074.4.54;Artes;1;54
-11913.0;Práticas de Laboratório I;1;54
-11913.0;Práticas de Laboratório I;1;54
-DPAA-1.021;Língua Portuguesa I;1;54
-DPAA-1.022;Filosofia I;1;54
-DPAA-1.023;Sociologia I;1;54
-DPAA-1.139;Lingua Estrangeira I - Inglês;1;54
 DPAA-1.4;Educação Física I;1;108
-DPAA-2.018;Matemática I;1;54
-DPAA-2.019;Física I;1;54
 DPAA-4.166;Eletricidade (cc/ca) I;1;108
-10189.0.54;Eletrônica Geral I;2;54
-11687.4;Língua Estrangeira II - Inglês;2;54
-11915.0;Práticas de Laboratório II;2;54
-11915.0;Práticas de Laboratório II;2;54
-CO.TELECOM.001;Eletricidade (cc/ca) II;2;54
-DPAA-1.133;Língua Portuguesa II;2;54
-DPAA-1.134;História II;2;54
-DPAA-1.135;Geografia II;2;54
-DPAA-1.136;Filosofia II;2;54
-DPAA-1.137;Sociologia II;2;54
-DPAA-1.5;Educação Física II;2;108
-DPAA-2.119;Matemática II;2;54
-DPAA-2.120;Química II;2;54
+DPAA-1.022;Filosofia I;1;54
+DPAA-2.019;Física I;1;54
+10043.4.54;Geografia I;1;54
+10038.0.54C;História I;1;54
+DPAA-1.139;Lingua Estrangeira I - Inglês;1;54
+DPAA-1.021;Língua Portuguesa I;1;54
+DPAA-2.018;Matemática I;1;54
+11913.0;Práticas de Laboratório I;1;54
+10041.4.54;Química I;1;54
+DPAA-1.023;Sociologia I;1;54
 DPAA-2.121;Biologia II;2;54
+DPAA-1.5;Educação Física II;2;108
+CO.TELECOM.001;Eletricidade (cc/ca) II;2;54
+10189.0.54;Eletrônica Geral I;2;54
+DPAA-1.136;Filosofia II;2;54
 DPAA-2.122;Física II;2;54
+DPAA-1.135;Geografia II;2;54
+DPAA-1.134;História II;2;54
+11687.4;Língua Estrangeira II - Inglês;2;54
+DPAA-1.133;Língua Portuguesa II;2;54
+DPAA-2.119;Matemática II;2;54
 DPAA-4.204;Práticas de Eletrônica;2;54
-DPAA-4.204;Práticas de Eletrônica;2;54
-DPAA-1.099.1;História III;3;54
-DPAA-1.100.1;Geografia III;3;54
-DPAA-1.180;Língua Portuguesa III;3;54
-DPAA-1.182;Filosofia III;3;54
-DPAA-1.183;Sociologia III;3;54
-DPAA-1.6;Educação Física III;3;108
-DPAA-2.096.1;Matemática III;3;54
-DPAA-2.098.1;Biologia III;3;54
-DPAA-2.099.1;Física III;3;54
-DPAA-2.132;Química III;3;54
-DPAA-4.222;Informática (cad e Simulação);3;54
+11915.0;Práticas de Laboratório II;2;54
+DPAA-2.120;Química II;2;54
+DPAA-1.137;Sociologia II;2;54
 DPAA-4.223;Análise de Circuitos I;3;54
+DPAA-2.098.1;Biologia III;3;54
+DPAA-1.6;Educação Física III;3;108
 DPAA-4.225;Eletrônica Geral II;3;54
+DPAA-1.182;Filosofia III;3;54
+DPAA-2.099.1;Física III;3;54
+DPAA-1.100.1;Geografia III;3;54
+DPAA-1.099.1;História III;3;54
+DPAA-4.222;Informática (cad e Simulação);3;54
+DPAA-1.180;Língua Portuguesa III;3;54
+DPAA-2.096.1;Matemática III;3;54
+DPAA-2.132;Química III;3;54
 DPAA-4.226;Sistemas Digitais;3;108
-11919.0;Manutenção de Computadores;4;54
-11920.0;Instalações Elétricas e Lógicas;4;54
-DPAA-1.184;Língua Portuguesa IV;4;54
-DPAA-1.185;Língua Estrangeira - Espanhol;4;54
-DPAA-1.188;Empreendedorismo;4;54
-DPAA-2.100.1;Matemática IV;4;54
-DPAA-2.165;Segurança do Trabalho;4;54
+DPAA-1.183;Sociologia III;3;54
 DPAA-4.224;Análise de Circuitos II;4;54
-DPAA-4.227;Eletrônica de Potência;4;108
-DPAA-4.228;Eletrônica Aplicada;4;54
 DPAA-4.229;Controle, Servomecanismo e Robótica;4;108
+DPAA-4.228;Eletrônica Aplicada;4;54
+DPAA-4.227;Eletrônica de Potência;4;108
+DPAA-1.188;Empreendedorismo;4;54
+11920.0;Instalações Elétricas e Lógicas;4;54
+DPAA-1.185;Língua Estrangeira - Espanhol;4;54
+DPAA-1.184;Língua Portuguesa IV;4;54
+11919.0;Manutenção de Computadores;4;54
+DPAA-2.100.1;Matemática IV;4;54
 DPAA-4.230;Microprocessadores e Microcontroladores;4;108
+DPAA-2.165;Segurança do Trabalho;4;54
