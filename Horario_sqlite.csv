@@ -1,27 +1,77 @@
-ANO,SEMESTRE,CURSO,PER_LETIVO,TURNO,DISCIPLINA,AREA,FREQ,CH,PROFESSOR
-2025,1,CEE,10,N,Análise de Sistemas Elétricos,x,2,54,Alana da Silva
-2025,1,CEE,1,N,Introdução Eng. Elétrica,x,2,27,Alana da Silva
-2025,1,ME,1,N,MESTRADO,x,2,54,Alana da Silva
-2025,1,CTITEL,4,M,Segurança do Trabalho,x,1,54,Alana da Silva
-2025,1,CEE,3,N,Circuitos Elétricos I (CC),x,2,81,Aline
-2025,1,DEP,1,V,Eletricidade I,x,1,108,Aline
-2025,1,CTITEL,1,M,Eletricidade I - Cc,x,1,108,Aline
-2025,1,CTIELN,4,M,Instalações Elétricas e Lógicas,x,1,54,Aline
-2025,1,CTIELN,4,M,Análise de Circuitos II,x,1,54,Arquimedes
-2025,1,CEE,5,N,Desenho Técnico Assistido por Computador,x,2,54,Arquimedes
-2025,1,CTITEL,1,M,Práticas de Laboratório I,x,1,54,Arquimedes
-2025,1,CEE,8,N,Processamento Digital de Sinais,x,2,54,Arquimedes
-2025,1,CTIELN,4,M,Segurança do Trabalho,x,1,54,Arquimedes
-2025,1,CEE,1,N,Algoritmos e Técnicas de Programação,x,2,54,CARLOS DANIEL BEZERRA
-2025,1,CEE,5,N,Eletrônica Industrial,x,2,54,CARLOS DANIEL BEZERRA
-2025,1,CTIELN,3,M,Informática (cad e Simulação),x,1,54,CARLOS DANIEL BEZERRA
-2025,1,CTITEL,3,M,Informática Aplicada,x,1,54,CARLOS DANIEL BEZERRA
-2025,1,CTITEL,4,M,Redes de Telecomunicações,x,1,108,CARLOS DANIEL BEZERRA
-2025,1,CTIELN,4,M," Controle, Servomecanismo e Robótica ",x,1,108,CARLOS ROBERTO
-2025,1,CEE,8,N,Acionamentos Elétricos,x,2,54,CARLOS ROBERTO
-2025,1,CTIELN,4,M,Eletrônica Aplicada,x,1,54,CARLOS ROBERTO
-2025,1,CETPI,1,N,Redes de Sensores e Atuadores Sem Fio na Indústria e em Prédios Inteligentes,x,2,54,CARLOS ROBERTO
-2025,1,CTITEL,4,M,Microcontroladores,x,1,54,Cláudio Fleury
-2025,1,CTIELN,4,M,Microprocessadores e Microcontroladores,x,1,108,Cláudio Fleury
-2025,1,CECAUT,6,M,Processamento Digital de Sinais,x,2,54,Cláudio Fleury
-2025,1,CECAUT,4,M,Sistemas Lineares,x,2,54,Cláudio Fleury
+ANO,SEMESTRE,CURSO,PER_LETIVO,TURNO,DISCIPLINA,AREA,FREQ,CH,PROFESSOR,COD_H
+2025,1,CEE,10,N,Análise de Sistemas Elétricos,x,2,54,Alana da Silva,
+2025,1,CEE,1,N,Introdução Eng. Elétrica,x,2,27,Alana da Silva,
+2025,1,ME,1,N,MESTRADO,x,2,54,Alana da Silva,
+2025,1,CTITEL,4,M,Segurança do Trabalho,x,1,54,Alana da Silva,
+2025,1,CEE,3,N,Circuitos Elétricos I (CC),x,2,81,Aline,
+2025,1,DEP,1,V,Eletricidade I,x,1,108,Aline,
+2025,1,CTITEL,1,M,Eletricidade I - Cc,x,1,108,Aline,
+2025,1,CTIELN,4,M,Instalações Elétricas e Lógicas,x,1,54,Aline,
+2025,1,CTIELN,4,M,Análise de Circuitos II,x,1,54,Arquimedes,
+2025,1,CEE,5,N,Desenho Técnico Assistido por Computador,x,2,54,Arquimedes,
+2025,1,CTITEL,1,M,Práticas de Laboratório I,x,1,54,Arquimedes,
+2025,1,CEE,8,N,Processamento Digital de Sinais,x,2,54,Arquimedes,
+2025,1,CTIELN,4,M,Segurança do Trabalho,x,1,54,Arquimedes,
+2025,1,CEE,1,N,Algoritmos e Técnicas de Programação,x,2,54,CARLOS DANIEL BEZERRA,
+2025,1,CEE,5,N,Eletrônica Industrial,x,2,54,CARLOS DANIEL BEZERRA,
+2025,1,CTIELN,3,M,Informática (cad e Simulação),x,1,54,CARLOS DANIEL BEZERRA,
+2025,1,CTITEL,3,M,Informática Aplicada,x,1,54,CARLOS DANIEL BEZERRA,
+2025,1,CTITEL,4,M,Redes de Telecomunicações,x,1,108,CARLOS DANIEL BEZERRA,
+2025,1,CTIELN,4,M," Controle, Servomecanismo e Robótica ",x,1,108,CARLOS ROBERTO,
+2025,1,CEE,8,N,Acionamentos Elétricos,x,2,54,CARLOS ROBERTO,
+2025,1,CTIELN,4,M,Eletrônica Aplicada,x,1,54,CARLOS ROBERTO,
+2025,1,CETPI,1,N,Redes de Sensores e Atuadores Sem Fio na Indústria e em Prédios Inteligentes,x,2,54,CARLOS ROBERTO,
+2025,1,CTITEL,4,M,Microcontroladores,x,1,54,Cláudio Fleury,
+2025,1,CTIELN,4,M,Microprocessadores e Microcontroladores,x,1,108,Cláudio Fleury,
+2025,1,CECAUT,6,M,Processamento Digital de Sinais,x,2,54,Cláudio Fleury,
+2025,1,CECAUT,4,M,Sistemas Lineares,x,2,54,Cláudio Fleury,
+2025,1,CTIELN,4,M,Instalações Elétricas e Prediais II,x,1,54,Danilo - Subistituto,
+2025,1,CEE,9,N,Instalações Industriais  ,x,2,54,Danilo - Subistituto,
+2025,1,CEE,6,N,Instalações Elétricas Prediais,x,2,54,Danilo - Subistituto,
+2025,1,CTSELN,4,N,Instalações Elétricas Industriais     --   ZANIN ,x,2,54,Danilo - Subistituto,
+2025,1,CTSELN,4,N,Sistemas de Controle ,x,2,54,Danilo - Subistituto,
+2025,1,CTITEL,4,M,Propagação e Antenas,X,1,108,Eliézer Teixeira,
+2025,1,CTITEL,4,M,Práticas de Laboratório 1 - G1,X,1,54,Eliézer Teixeira,
+2025,1,CTITEL,4,M,Redes de Computadores,X,1,108,Fábio Marques,
+2025,1,CEE,9,N,Segurança da Informação,X,2,54,Fábio Marques,
+2025,1,CTITEL,2,M,Eletricidade II - Ca,X,1,54,JOSÉ LUIS,
+2025,1,CTIELN,2,M,Eletricidade (CC/CA) II,X,1,54,JOSÉ LUIS,
+2025,1,DEP,2,V,Eletricidade (CC/CA) II,X,1,54,JOSÉ LUIS,
+2025,1,CTIELN,1,M,Práticas de Laboratório II - G1,X,1,54,JOSÉ LUIS,
+2025,1,CTIELN,1,M,Práticas de Laboratório II - G2,X,1,54,JOSÉ LUIS,
+2025,1,ME,1,N,MESTRADO,X,2,54,JOSÉ LUIS,
+2025,1,CTIELN,1,M,Eletricidade (CC/CA) I ,X,1,108,Janaína,
+2025,1,CEE,9,N,Infraestrutura para Sistema Irradiante,X,2,54,João Batista,
+2025,1,CEE,7,N,Comutação Telefônica e Multiplexação,X,2,81,João Batista,
+2025,1,CEE,10,N,SPDA,X,2,54,João Batista,
+2025,1,CEE,7,N,Comunicações Móveis,X,2,54,Kelias Oliveira,
+2025,1,CETPI,1,N,Fundamentos de Tel,X,2,54,Kelias Oliveira,
+2025,1,CEE,9,N,Sistemas de Controle I,X,2,54,LEOVIR,
+2025,1,CEE,5,N,Sistemas Lineares,X,2,54,LEOVIR,
+2025,1,CEE,10,N,Sistemas de Controle Ii,X,2,54,LEOVIR,
+2025,1,CEE,6,N,Eletromagnetismo,X,2,54,LEOVIR,
+2025,1,CTIELN,3,M,Sistemas Digitais,X,1,108,MARCELO ADAD,
+2025,1,DEP,3,V,Eletrônica Geral II ,X,1,108,MARCELO ADAD,
+2025,1,CTITEL,3,M,Eletrônica Digital,X,1,108,MARCELO ADAD,
+2025,1,CEE,5,N,Eletrônica Digital II,X,2,54,MARCELO ADAD,
+2025,1,DEP,1,V,Práticas de Laboratório I (Dependência),X,1,54,Marcos Cardoso,
+2025,1,CTITEL,1,M,Práticas de Laboratório I,X,1,54,Marcos Cardoso,
+2025,1,CTITEL,4,M,Tópicos em Telecomunicações,X,1,108,Marcos Cardoso,
+2025,1,CEE,7,N,Sistemas de Comunicação,X,2,54,Marcos Cardoso,
+2025,1,CEE,7,N,Processos Estocásticos,X,2,54,Marcos Cardoso,
+2025,1,CTITEL,3,M,Técnicas de Modulação,X,1,108,Paulo Bezerra,
+2025,1,CTIELN,2,M,Eletrônica Geral I,X,1,54,Paulo Bezerra,
+2025,1,CTIELN,1,M,Práticas de Laboratório 1 - G2,X,1,54,Paulo Bezerra,
+2025,1,CTIELN,3,M,Eletrônica Geral II,X,1,54,Paulo Bezerra,
+2025,1,CTIELN,2,M,Práticas de Eletrônica - G1,X,1,54,Paulo Bezerra,
+2025,1,CTIELN,2,M,Práticas de Eletrônica - G2,X,1,54,Paulo Bezerra,
+2025,1,CEE,9,N,Transm. e Dist. de Energia Elétrica,X,2,54,Paulo Zanin,
+2025,1,CEE,9,N,Introdução à Programação Python,X,2,27,Paulo Zanin,
+2025,1,CEE,5,N,Segurança do Trabalho,X,2,27,Paulo Zanin,
+2025,1,CEE,5,N,Conversão de Energia Elétrica,X,2,54,Renato Dias,
+2025,1,CEE,7,N,Máquinas Elétricas,X,2,81,Renato Dias,
+2025,1,CTITEL,2,M,Práticas de Laboratório II,X,1,54,Ubaldo,
+2025,1,CTITEL,2,M,Práticas de Laboratório II,X,1,54,Ubaldo,
+2025,1,CTIELN,4,M,Eletrônica de Potência,X,1,108,Ubaldo,
+2025,1,CETPI,1,M,Redes de Telecomunicações Convergentes,X,2,54,Christiane Borges,
+2025,1,CTIELN,4,N,Manutenção de Computadores,X,1,54,Christiane Borges,
