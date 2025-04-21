@@ -1,0 +1,27 @@
+ANO,SEMESTRE,CURSO,PER_LETIVO,TURNO,DISCIPLINA,AREA,FREQ,CH,PROFESSOR
+2025,1,CEE,10,N,Análise de Sistemas Elétricos,x,2,54,Alana da Silva
+2025,1,CEE,1,N,Introdução Eng. Elétrica,x,2,27,Alana da Silva
+2025,1,ME,1,N,MESTRADO,x,2,54,Alana da Silva
+2025,1,CTITEL,4,M,Segurança do Trabalho,x,1,54,Alana da Silva
+2025,1,CEE,3,N,Circuitos Elétricos I (CC),x,2,81,Aline
+2025,1,DEP,1,V,Eletricidade I,x,1,108,Aline
+2025,1,CTITEL,1,M,Eletricidade I - Cc,x,1,108,Aline
+2025,1,CTIELN,4,M,Instalações Elétricas e Lógicas,x,1,54,Aline
+2025,1,CTIELN,4,M,Análise de Circuitos II,x,1,54,Arquimedes
+2025,1,CEE,5,N,Desenho Técnico Assistido por Computador,x,2,54,Arquimedes
+2025,1,CTITEL,1,M,Práticas de Laboratório I,x,1,54,Arquimedes
+2025,1,CEE,8,N,Processamento Digital de Sinais,x,2,54,Arquimedes
+2025,1,CTIELN,4,M,Segurança do Trabalho,x,1,54,Arquimedes
+2025,1,CEE,1,N,Algoritmos e Técnicas de Programação,x,2,54,CARLOS DANIEL BEZERRA
+2025,1,CEE,5,N,Eletrônica Industrial,x,2,54,CARLOS DANIEL BEZERRA
+2025,1,CTIELN,3,M,Informática (cad e Simulação),x,1,54,CARLOS DANIEL BEZERRA
+2025,1,CTITEL,3,M,Informática Aplicada,x,1,54,CARLOS DANIEL BEZERRA
+2025,1,CTITEL,4,M,Redes de Telecomunicações,x,1,108,CARLOS DANIEL BEZERRA
+2025,1,CTIELN,4,M," Controle, Servomecanismo e Robótica ",x,1,108,CARLOS ROBERTO
+2025,1,CEE,8,N,Acionamentos Elétricos,x,2,54,CARLOS ROBERTO
+2025,1,CTIELN,4,M,Eletrônica Aplicada,x,1,54,CARLOS ROBERTO
+2025,1,CETPI,1,N,Redes de Sensores e Atuadores Sem Fio na Indústria e em Prédios Inteligentes,x,2,54,CARLOS ROBERTO
+2025,1,CTITEL,4,M,Microcontroladores,x,1,54,Cláudio Fleury
+2025,1,CTIELN,4,M,Microprocessadores e Microcontroladores,x,1,108,Cláudio Fleury
+2025,1,CECAUT,6,M,Processamento Digital de Sinais,x,2,54,Cláudio Fleury
+2025,1,CECAUT,4,M,Sistemas Lineares,x,2,54,Cláudio Fleury
